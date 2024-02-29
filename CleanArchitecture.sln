@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "..\..\..\Docents\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "..\..\..\Docents\Saumndboxing\CleanArchitecture\Domain\Application\Application.csproj", "{F457804A-7A5F-40C2-86E4-E39E4BF24AFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infastructure", "..\..\..\Docents\Saumndboxing\CleanArchitecture\Domain\Infastructure\Infastructure.csproj", "{87D425A1-1704-4FA7-BB6E-75AF4A1AA054}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "..\..\..\Docents\Saumndboxing\CleanArchitecture\Domain\Infastructure\Infrastructure.csproj", "{87D425A1-1704-4FA7-BB6E-75AF4A1AA054}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation", "..\..\..\Docents\Saumndboxing\CleanArchitecture\Domain\Presentation\Presentation.csproj", "{07F75BAB-8137-4836-A8CC-78AB20385BDB}"
 EndProject
